@@ -1,0 +1,147 @@
+.main_heading{
+    color:white;
+    font-size: 25px;
+    font-family: roboto;
+    font-weight: 600;
+}
+#content_section{
+    color:white;
+    font-family: roboto;
+    font-weight: 500;
+
+}
+#content_section_experience{
+    color:white;
+    font-family: roboto;
+    font-weight: 500;
+
+}
+#content_section_project{
+    color:white;
+    font-family: roboto;
+    font-weight: 500;
+
+}
+.background_section_card{
+    background-image:url("https://res.cloudinary.com/dookrlpdy/image/upload/v1688225814/Frontend_Backend_Hero_jnqsnn.jpg");
+    background-size:cover;
+    height:100vh;
+    width:100vw;
+}
+.img_section_card{
+    height:300px;
+    width:20vw;
+    border-radius: 20px;
+}
+.heding_section{
+    color:white;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 4rem;
+}
+.college_section{
+    color:rgb(172, 168, 196);
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 20px;
+
+}
+.button{
+    border-radius:10px;
+    border-width:1px;
+    border-style:solid;
+    border-color: white;
+    color:orange;
+    font-family: roboto;
+    padding:10px;
+    width: 100px;
+    background-color:transparent;
+    font-weight: 500;
+}
+.about_me_card_background_section{
+    background-color:brown;
+    padding:20px;
+
+}
+.about_me_heading_section{
+    color:white;
+    font-family:roboto;
+    font-weight: 500;
+    font-size:30px;
+}
+.about_me_img{
+    height:200px;
+    width:100%;
+}
+.about_me_description{
+    color:white;
+    font-size: 18px;
+    font-family: roboto;
+    text-align:left;
+}
+.skill_section{
+    background-color:#1f2933;
+    width:auto;
+}
+.skills_img_section{
+    background-color: #323f4b;
+    text-align: center;
+    padding:30px;
+    border-radius:10px;
+    
+}
+.skills_img_section1{
+    height:150px;
+    width:80px;
+}
+.skills_img_title{
+    color:white;
+    font-family: roboto;
+    font-size:20px;
+    font-weight: 500;
+
+}
+
+.contact_background-section-card {
+    background-color: #0d2436;
+}
+
+.contact_img-card-section {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+}
+
+.contact_heading-section-card {
+    color: #cced00;
+    font-size: 1rem;
+    font-weight: 700;
+    font-family: "Roboto";
+}
+
+.contact_description-card {
+    color: #9aa5b1;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.contact_image-identification {
+    color: #9aa5b1;
+    font-size: 18px;
+}
+
+.contact_footer-section-container {
+    color: #5a7184;
+    background-color: #001c32;
+    padding: 10px;
+    text-align: center;
+}
+.certificates_background{
+    background-color:cadetblue;
+    padding:20px;
+}
+.certificates_img_adjust{
+    height:70vh;
+    width:100px;
+    text-align: center;
+}
